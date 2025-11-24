@@ -1,5 +1,4 @@
 
-
 class Student:
     # __init__ is an constructor runs automatically when an object is created.
 
