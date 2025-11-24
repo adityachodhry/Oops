@@ -2,7 +2,6 @@
 # Objects in Python
 # Polymorphism in Python
 # Encapsulation in Python
-# Inheritance in Python
 
 class Student:
     # __init__ is an constructor runs automatically when an object is created.
