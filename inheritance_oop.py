@@ -5,7 +5,7 @@ class Parent:
         self.name = name
 
     def greet(self):
-        return f"Hello, my name is {self.name}."
+        return f"Hello, I am {self.name}."
     
 class Child(Parent):
     def __init__(self, name, age):
