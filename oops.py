@@ -14,7 +14,7 @@ class Student:
         print("Age:", self.email)
         print("Username:", self.username)
         print("Contact Number:", self.number)
-
+    
 # Create a student object
 name = str(input("Enter your name: "))
 email = str(input("Enter your email ID: "))
