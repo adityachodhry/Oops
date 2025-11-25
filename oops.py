@@ -1,4 +1,3 @@
-
 class Student:
     # __init__ is an constructor runs automatically when an object is created.
     def __init__(self, name, email, username, password, number):
