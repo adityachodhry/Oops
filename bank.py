@@ -32,7 +32,7 @@ class BankAccount:
             print("Incorrect password!")
 
     def display_info(self):
-        print("------ Account Information ------")
+        print("------ Account Information -------")
         print("Account Holder:", self.name)
         print("Account Number:", self.account_number)
         print("Balance:", self.balance)
