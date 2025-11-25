@@ -1,7 +1,7 @@
 # Create simple Bank Management System in Python using OOP.
 
 class BankAccount:
-    def __init__(self, name, account_number, password, balance=0):
+    def __init__(self, name, account_number, password, balance=0.00):
         self.name = name
         self.account_number = account_number
         self.__password = password   # private
