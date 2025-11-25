@@ -84,6 +84,5 @@ def bank_menu(account):
             print("Invalid choice! Try again.")
 
 
-# Start program
 account = create_account()
 bank_menu(account)
